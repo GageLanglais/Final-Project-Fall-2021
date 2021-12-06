@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cafd95ecd841f104f89d653a1a888b65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {fileID: 5529274269142043124, guid: 81cc0e95f4aa72145b36193f0809334b,
+      type: 3}
+  - DamageeffectPrefab: {instanceID: 0}
+  - HealthpickupeffectPrefab: {instanceID: 0}
+  - throwCog: {instanceID: 0}
+  - Damage: {instanceID: 0}
+  - winlose: {instanceID: 0}
+  - Scoreboard: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - victory: {instanceID: 0}
+  - defeat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
